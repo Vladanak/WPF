@@ -1,0 +1,10 @@
+c:\users\пользователь\source\repos\OOP1\OOP1\bin\Debug\OOP1.exe.config
+c:\users\пользователь\source\repos\OOP1\OOP1\bin\Debug\OOP1.exe
+c:\users\пользователь\source\repos\OOP1\OOP1\bin\Debug\OOP1.pdb
+c:\users\пользователь\source\repos\OOP1\OOP1\obj\Debug\OOP1.csprojResolveAssemblyReference.cache
+c:\users\пользователь\source\repos\OOP1\OOP1\obj\Debug\OOP1.Form1.resources
+c:\users\пользователь\source\repos\OOP1\OOP1\obj\Debug\OOP1.Properties.Resources.resources
+c:\users\пользователь\source\repos\OOP1\OOP1\obj\Debug\OOP1.csproj.GenerateResource.Cache
+c:\users\пользователь\source\repos\OOP1\OOP1\obj\Debug\OOP1.csproj.CoreCompileInputs.cache
+c:\users\пользователь\source\repos\OOP1\OOP1\obj\Debug\OOP1.exe
+c:\users\пользователь\source\repos\OOP1\OOP1\obj\Debug\OOP1.pdb

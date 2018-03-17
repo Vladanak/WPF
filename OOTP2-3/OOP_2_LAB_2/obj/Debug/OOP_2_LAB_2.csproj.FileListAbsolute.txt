@@ -1,0 +1,43 @@
+c:\users\-\documents\visual studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\OOP_2_LAB_2.exe.config
+c:\users\-\documents\visual studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\OOP_2_LAB_2.exe
+c:\users\-\documents\visual studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\OOP_2_LAB_2.pdb
+c:\users\-\documents\visual studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.csprojResolveAssemblyReference.cache
+c:\users\-\documents\visual studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.Form1.resources
+c:\users\-\documents\visual studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.Properties.Resources.resources
+c:\users\-\documents\visual studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.csproj.GenerateResource.Cache
+c:\users\-\documents\visual studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.exe
+c:\users\-\documents\visual studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.pdb
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.DataAnnotations.dll
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.dll
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\Iesi.Collections.dll
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\NHibernate.DataAnnotations.dll
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\NHibernate.dll
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.pdb
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.xml
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.DataAnnotations.pdb
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\Iesi.Collections.xml
+C:\Users\-\Documents\Visual Studio 2017\Projects\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\NHibernate.xml
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\OOP_2_LAB_2.exe.config
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\OOP_2_LAB_2.exe
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\OOP_2_LAB_2.pdb
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.DataAnnotations.dll
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.dll
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\Iesi.Collections.dll
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\NHibernate.DataAnnotations.dll
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\NHibernate.dll
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.pdb
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.xml
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\CompiledValidators.DataAnnotations.pdb
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\Iesi.Collections.xml
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\bin\Debug\NHibernate.xml
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.Form1.resources
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.exe
+C:\Users\Пользователь\Desktop\OOP_2_LAB_2\OOP_2_LAB_2\obj\Debug\OOP_2_LAB_2.pdb

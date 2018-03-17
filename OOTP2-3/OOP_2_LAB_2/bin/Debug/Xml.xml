@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <name>Владислав</name>
+    <second_name>Сергеевич</second_name>
+    <surname>Муравейко</surname>
+    <date_of_birth>16 марта 2018 г.</date_of_birth>
+    <specialization>ПОИТ</specialization>
+    <kurs>2</kurs>
+    <average_mark>4</average_mark>
+    <sex>Пол мужской</sex>
+    <adress>
+      <city>Бресткая</city>
+      <index>228011</index>
+      <street>Бресткая</street>
+      <house>1</house>
+      <floor>1</floor>
+    </adress>
+  </Student>
+</ArrayOfStudent>

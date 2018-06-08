@@ -1,0 +1,17 @@
+C:\Users\Silent Hill\source\repos\lab13\lab13\bin\Debug\lab13.exe.config
+C:\Users\Silent Hill\source\repos\lab13\lab13\bin\Debug\lab13.exe
+C:\Users\Silent Hill\source\repos\lab13\lab13\bin\Debug\lab13.pdb
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\lab13.csprojResolveAssemblyReference.cache
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\Add.g.cs
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\MainWindow.g.cs
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\App.g.cs
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\lab13_MarkupCompile.cache
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\lab13_MarkupCompile.lref
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\Add.baml
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\MainWindow.baml
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\lab13.g.resources
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\lab13.Properties.Resources.resources
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\lab13.csproj.GenerateResource.Cache
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\lab13.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\lab13.exe
+C:\Users\Silent Hill\source\repos\lab13\lab13\obj\Debug\lab13.pdb

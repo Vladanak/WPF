@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:OOP_4_5_TEST">
+    <SolidColorBrush x:Key="themeColor" Color="#FF3BBC91"/>
+    <SolidColorBrush x:Key="themeColorOpen" Color="#FF38A826"/>
+    <SolidColorBrush x:Key="themeColorSave" Color="#FFBFB72B"/>
+    <SolidColorBrush x:Key="themeColorSL" Color="#FF4C299C"/>
+    <Thickness x:Key="borderW">10</Thickness>
+</ResourceDictionary>

@@ -15,9 +15,6 @@ namespace OOP_2_LAB_2
         public string Street { get => street; set => street = value; }
         public int House { get => house; set => house = value; }
         public int Floor { get => floor; set => floor = value; }
-
-        public Adress()
-        { }
     }
 
     [Serializable]
@@ -49,7 +46,5 @@ namespace OOP_2_LAB_2
         {
         Adress = adr;
         }
-
     }
-
 }

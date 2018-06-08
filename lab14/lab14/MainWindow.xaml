@@ -1,0 +1,17 @@
+﻿<Window x:Class="lab14.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Создание" HorizontalAlignment="Left" Margin="193,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <Button Content="Клонирование" HorizontalAlignment="Left" Margin="193,37,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_1"/>
+        <Frame Name="Second" Margin="311,64,0,0"></Frame>
+        <Frame Name="First" Margin="0,92,211,0"></Frame>
+        <Button Content="Билдер" HorizontalAlignment="Left" Margin="99,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_2"/>
+        <Button Content="Декоратор" HorizontalAlignment="Left" Margin="294,10,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click_3"/>
+        <Button Content="Композит(мэп)" HorizontalAlignment="Left" Margin="184,70,0,0" VerticalAlignment="Top" Width="96" Click="Button_Click_4"/>
+    </Grid>
+</Window>

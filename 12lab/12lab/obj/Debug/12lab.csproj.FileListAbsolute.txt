@@ -1,0 +1,17 @@
+C:\Users\Silent Hill\source\repos\12lab\12lab\bin\Debug\12lab.exe.config
+C:\Users\Silent Hill\source\repos\12lab\12lab\bin\Debug\12lab.exe
+C:\Users\Silent Hill\source\repos\12lab\12lab\bin\Debug\12lab.pdb
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\12lab.csprojResolveAssemblyReference.cache
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\Add.g.cs
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\MainWindow.g.cs
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\App.g.cs
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\12lab_MarkupCompile.cache
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\12lab_MarkupCompile.lref
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\Add.baml
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\MainWindow.baml
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\12lab.g.resources
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\_12lab.Properties.Resources.resources
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\12lab.csproj.GenerateResource.Cache
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\12lab.csproj.CoreCompileInputs.cache
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\12lab.exe
+C:\Users\Silent Hill\source\repos\12lab\12lab\obj\Debug\12lab.pdb
